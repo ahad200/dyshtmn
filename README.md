@@ -34,4 +34,4 @@
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/m-ahadiyas-hatumena" target="_blank">Muhammad Ahadiyas Hatumena
-</a> Email: ahadiyas@hatumena.com</p>
+<p align="center"> </a> Email: ahadiyas@hatumena.com</p>
