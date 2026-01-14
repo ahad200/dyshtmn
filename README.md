@@ -2,7 +2,7 @@
 
 👋 My name is Muhammad Ahadiyas Hatumea. I am a Software Engginer hand-on Fullstack Website Developer and live in South Jakarta, Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 
-## My Skills
+## Languages and Tools
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
