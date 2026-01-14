@@ -32,6 +32,7 @@
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=ahad200&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/m-ahadiyas-hatumena" target="_blank">Muhammad Ahadiyas Hatumena
-<p align="center">🔗 Email: <a href="https://www.gmail.com" target="_blank">ahadiyas@hatumena.com
+<p align="left">
+<a href="https://www.linkedin.com/in/m-ahadiyas-hatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risjadshidqi" height="30" width="40" /></a>
+<a href="https://instagram.com/dyshatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risjadshidqi" height="30" width="40" /></a>
+</p>
