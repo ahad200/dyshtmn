@@ -2,6 +2,13 @@
 
 👋 My name is Muhammad Ahadiyas Hatumea. I am a Software Engginer hand-on Fullstack Website Developer and live in South Jakarta, Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/m-ahadiyas-hatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risjadshidqi" height="30" width="40" /></a>
+<a href="https://instagram.com/dyshatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risjadshidqi" height="30" width="40" /></a>
+<a href="https://twitter.com/ahyss200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahyss200" height="30" width="40" /></a>
+</p>
+
 ## Languages and Tools
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
@@ -30,10 +37,3 @@
 <table><tbody><tr border="none"><td width="50%" align="center">
   
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=ahad200&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/m-ahadiyas-hatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risjadshidqi" height="30" width="40" /></a>
-<a href="https://instagram.com/dyshatumena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risjadshidqi" height="30" width="40" /></a>
-<a href="https://twitter.com/ahyss200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahyss200" height="30" width="40" /></a>
-</p>
