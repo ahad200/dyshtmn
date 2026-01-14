@@ -27,7 +27,7 @@
 
 <!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
 <div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=(https://x.com/ahyss200)" /></a>
 </div>
 
 ## 💻 Tech Stack
