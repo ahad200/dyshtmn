@@ -1,4 +1,4 @@
-## 👋 Welcome to My Github Repo!
+## Welcome to My Github Repo!
 
 👋 My name is Muhammad Ahadiyas Hatumea. I am a Software Engginer hand-on Fullstack Website Developer and live in South Jakarta, Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 
